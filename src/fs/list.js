@@ -1,4 +1,3 @@
-import fs from "fs";
 import * as fsp from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
